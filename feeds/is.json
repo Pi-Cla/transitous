@@ -1,0 +1,15 @@
+{
+    "maintainers": [
+        {
+            "github": "Gordon Leung",
+            "name": "pi-cla"
+        }
+    ],
+    "sources": [
+        {
+            "name": "traansit-test",
+            "type": "transitland-atlas",
+            "transitland-atlas-id": "f-ge2kx-straeto"
+        }
+    ]
+}
